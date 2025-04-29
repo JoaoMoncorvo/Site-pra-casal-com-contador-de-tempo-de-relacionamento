@@ -1,0 +1,3 @@
+Esse site e estupidamente simples, pra voce mudar a imagem e so excluir a foto usada como exemplo, por na mesma pasta uma foto que voce quer, apenas renomeie ela pra "foto.png",
+pra mudar os textos, como o titulo, a declaracao de amor, voce vai precisar ir no index.html e la eu deixo um comentario explicando aonde voce tem que mudar, pra mudar a data vai ter que ir
+no script.js e la na primeira linha voce poe a data, tem uma instrucao la.
